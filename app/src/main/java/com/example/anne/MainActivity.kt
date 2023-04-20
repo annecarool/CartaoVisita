@@ -130,6 +130,7 @@ fun Cabecalho() {
 
         Text(
             text = "Aluna",
+
             fontSize = 18.sp,
             color = Color(255,255,255),
             fontWeight = FontWeight.SemiBold,
